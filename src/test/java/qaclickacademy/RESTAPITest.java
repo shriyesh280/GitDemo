@@ -9,6 +9,7 @@ public class RESTAPITest {
 	{
 		System.out.println("postJira");
 		System.out.println("Changes in code");
+		System.out.println("Changes in code2");
 	}
 	
 	@Test
